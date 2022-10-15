@@ -49,7 +49,7 @@ def main6():
 main6()
 #c1_e12
 def main7():
-  print("Kfar\nSaba")
+  print("Kfar","Saba" ,sep = "\n")
   print("********\nKfarMala\n********")
   print("Kfar" ,end ="")
   print("Rosh HaNikra")
